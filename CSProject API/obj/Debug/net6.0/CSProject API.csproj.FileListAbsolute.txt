@@ -1,0 +1,43 @@
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\CSProject API.exe
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\CSProject API.deps.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\CSProject API.runtimeconfig.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\CSProject API.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\CSProject API.pdb
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\Snappier.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.csproj.AssemblyReference.cache
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.AssemblyInfoInputs.cache
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.AssemblyInfo.cs
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.csproj.CoreCompileInputs.cache
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets\msbuild.CSProject API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets\msbuild.build.CSProject API.props
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CSProject API.props
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CSProject API.props
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\scopedcss\bundle\CSProject API.styles.css
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.csproj.CopyComplete
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\refint\CSProject API.dll
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.pdb
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\CSProject API.genruntimeconfig.cache
+C:\Users\Dell Admin\source\repos\CSProject API\CSProject API\obj\Debug\net6.0\ref\CSProject API.dll
